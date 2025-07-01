@@ -102,4 +102,18 @@ For any issues, check the logs of each service:
 ```sh
 docker-compose logs backend
 docker-compose logs frontend
-``` 
+```
+
+
+## Images
+![Screenshot Capture - 2025-07-01 - 10-47-51](https://github.com/user-attachments/assets/0ed5899c-c517-4217-9d5e-c76964775371)
+![Screenshot Capture - 2025-07-01 - 10-48-18](https://github.com/user-attachments/assets/45148adf-3bbf-438e-a8b9-86cfa2f11f78)
+![Screenshot Capture - 2025-07-01 - 10-48-43](https://github.com/user-attachments/assets/7b23ce5d-c7a4-4ecf-957e-29f500a357bf)
+![Screenshot Capture - 2025-07-01 - 10-49-03](https://github.com/user-attachments/assets/eb75c95b-7224-4e7d-a4a0-657718fcd82c)
+![Screenshot Capture - 2025-07-01 - 10-51-49](https://github.com/user-attachments/assets/2cf034a5-7ee0-414d-adf0-1a43a05150e1)
+![Screenshot Capture - 2025-07-01 - 10-53-09](https://github.com/user-attachments/assets/4057f6de-ebbf-4fba-9bf9-278f0bc0b411)
+![Screenshot Capture - 2025-07-01 - 10-53-48](https://github.com/user-attachments/assets/414046fc-8a69-4fe5-83cf-4e272f3dd37e)
+![Screenshot Capture - 2025-07-01 - 10-53-55](https://github.com/user-attachments/assets/5c389245-9d91-4517-9cbd-712e9be12920)
+
+
+
